@@ -4,3 +4,5 @@ This is may first project
 $ git clone https://github.com/Toxic-404-Cyber/Kabir-First
 
 $ cd Kabir-First
+
+$ python Run.py
